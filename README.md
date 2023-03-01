@@ -4,4 +4,4 @@ A simple dashboard created with HTML, CSS and JS. Using the lib chart.js
 
 # Preview
 
-https://github.com/enzomaragno/simple-dashboard/blob/main/preview-dashboard.png?raw=true
+https://cdn.discordapp.com/attachments/967102700825215007/1080631718731583488/image.png
