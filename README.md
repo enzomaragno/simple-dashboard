@@ -1,11 +1,16 @@
-# simple-dashboard
-A simple dashboard created with HTML, CSS and JS. Using the lib chart.js
-This repository was made in April 2023.
+<p align="center">
 
+<img src="preview-dashboard.png" width="100%">
 
+</p>
 
+## 💻 About the Project
+This is a web project that I did a simple dashboard
 
+## 🚀 Technologies
+This project was developed with following technologies:
 
-# Preview
-
-https://github.com/enzomaragno/simple-dashboard/blob/main/preview-dashboard.png?raw=true
+- HTML
+- CSS
+- JavaScript
+- Git e Github
